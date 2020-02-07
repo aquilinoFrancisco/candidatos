@@ -1,4 +1,5 @@
-# Rest-API-Challenge
+# LINIO-backend challenge!
+
 REST API provides third party applications user associated to the OAuth token used to invoke the API, with the following endpoints:
 
 *Get documents
