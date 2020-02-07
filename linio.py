@@ -19,7 +19,7 @@ class TestMyModule(unittest.TestCase):
         print("Setup")
         self.numbers = 100
     
-    # Make the test case
+    # Run the test case
     def test(self):
         print("Test")
         r = [linio(self.numbers) ]
