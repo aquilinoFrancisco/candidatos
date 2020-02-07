@@ -15,6 +15,7 @@ class TestMyModule(unittest.TestCase):
     
     # Create the test case
     def setUp(self):
+	#only numbers
         self.numbers = 100
     
     # Run the test case
