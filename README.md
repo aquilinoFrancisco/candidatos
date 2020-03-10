@@ -1,3 +1,3 @@
 # EfiInfo challenge!
 
-Programa que revisa los tweets, provenientes de Mèxico, que hacen menciòn a los candidatos presidenciales
+Crawler de tweets que obtiene solo los realizados en Mexico, que hacen menciòn a los candidatos presidenciales
